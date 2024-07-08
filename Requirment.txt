@@ -1,0 +1,4 @@
+IDE : VS CODE
+Language :Python 
+DataSet : Kaggle by Toronto University TESS 
+Libraries: Numpy , Panda , Keras , Tensorflow , OS , Librosa , Glob , PIL 
