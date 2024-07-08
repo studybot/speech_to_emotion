@@ -1,5 +1,8 @@
-Speech Emotion Recognition Using Librosa
+SPEECH EMOTION RECOGNITION USING LIBROSA
+ 
+
 Table of Contents
+
 Introduction
 Features
 Installation
@@ -10,6 +13,8 @@ Results
 Contributing
 License
 Acknowledgements
+
+
 Introduction
 This project aims to classify emotions from speech signals using machine learning techniques. We use the Librosa library for audio feature extraction and various machine learning models for emotion recognition.
 
